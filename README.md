@@ -10,3 +10,6 @@ income cap      marginal tax rate
 If you're not familiar with how tax brackets work, see the section below for an explanation.
 
 Given a whole-number income amount up to ¤100,000,000, find the amount of tax owed in Examplania. Round down to a whole number of ¤.
+
+Source:
+https://www.reddit.com/r/dailyprogrammer/comments/cdieag/20190715_challenge_379_easy_progressive_taxation/
